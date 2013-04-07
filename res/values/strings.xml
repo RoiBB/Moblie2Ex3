@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobile App</string>
+    <string name="main_activity_title">Main</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
